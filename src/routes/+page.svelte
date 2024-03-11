@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>MapLibre GL JS & Svelte Starter</title>
+	<title>MaaaaapLibre GL JS & Svelte Starterrrrrrrrrr</title>
 	<meta name="description" content="MapLibre GL JS & Svelte Starter" />
 </svelte:head>
 
