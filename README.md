@@ -2,9 +2,10 @@
 
 ![README02](static/README02.png)
 
-Start MapLibre GL JS and Svelte easily.  
-- [MapLibre GL JS v3.3.1](https://maplibre.org)  
-- [Svelte v4.0.5](https://svelte.dev)  
+Start MapLibre GL JS and Svelte easily.
+
+- [MapLibre GL JS v3.3.1](https://maplibre.org)
+- [Svelte v4.0.5](https://svelte.dev)
 - node v20.6.1
 - npm v9.8.1
 
@@ -23,6 +24,7 @@ Start MapLibre GL JS and Svelte easily.
 <br>
 
 Install package
+
 ```bash
 npm install
 ```
@@ -30,6 +32,7 @@ npm install
 <br>
 
 code format
+
 ```bash
 npm run format
 ```
@@ -37,6 +40,7 @@ npm run format
 <br>
 
 build
+
 ```bash
 npm run build
 ```
@@ -44,6 +48,7 @@ npm run build
 <br>
 
 dev
+
 ```bash
 npm run dev
 ```
@@ -51,6 +56,7 @@ npm run dev
 <br>
 
 Unit Tests
+
 ```sh
 npm run test:unit
 ```
@@ -58,6 +64,7 @@ npm run test:unit
 <br>
 
 Lint
+
 ```sh
 npm run lint
 ```
@@ -70,6 +77,7 @@ npm run lint
 <br>
 
 ## License
+
 MIT
 
 Copyright (c) 2023 MapLibre User Group Japan
@@ -88,9 +96,10 @@ Copyright (c) 2023 MapLibre User Group Japan
 
 ![README02](static/README02.png)
 
-MapLibre GL JSとSvelteを手軽に始める
-- [MapLibre GL JS v3.3.1](https://maplibre.org)  
-- [Svelte v4.0.5](https://svelte.dev)  
+MapLibre GL JS と Svelte を手軽に始める
+
+- [MapLibre GL JS v3.3.1](https://maplibre.org)
+- [Svelte v4.0.5](https://svelte.dev)
 - node v20.6.1
 - npm v9.8.1
 
@@ -98,11 +107,11 @@ MapLibre GL JSとSvelteを手軽に始める
 
 ## blog
 
-[MapLibre GL JSとSvelteを組み合わせた開発環境を構築してみた](https://www.memo.dayjournal.dev/memo/try-102)
+[MapLibre GL JS と Svelte を組み合わせた開発環境を構築してみた](https://www.memo.dayjournal.dev/memo/try-102)
 
 <br>
 
-##  使用方法
+## 使用方法
 
 ![README03](static/README03.png)
 
@@ -117,6 +126,7 @@ npm install
 <br>
 
 コードフォーマット
+
 ```bash
 npm run format
 ```
@@ -139,7 +149,8 @@ npm run dev
 
 <br>
 
-Unitテスト
+Unit テスト
+
 ```sh
 npm run test:unit
 ```
@@ -147,6 +158,7 @@ npm run test:unit
 <br>
 
 リント
+
 ```sh
 npm run lint
 ```
@@ -159,6 +171,7 @@ npm run lint
 <br>
 
 ## ライセンス
+
 MIT
 
 Copyright (c) 2023 MapLibre User Group Japan
